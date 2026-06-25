@@ -1,4 +1,4 @@
-# moviMovie Spoiler Detection System
+# Movie Spoiler Detection System
 
 Overview
 

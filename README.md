@@ -1,3 +1,16 @@
+
+
+## Key Highlights
+
+- Developed an NLP-based spoiler detection system using the IMDb Spoiler Dataset.
+- Implemented TF-IDF feature extraction for text representation.
+- Trained and compared Support Vector Machine and Multinomial Naive Bayes classifiers.
+- Evaluated performance using Accuracy, Precision, Recall, and F1-Score.
+
+
+
+
+
 # Movie Spoiler Detection System
 
 Overview
